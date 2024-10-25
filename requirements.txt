@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+moviepy
+opencv-python
+numpy
+pandas
+scikit-learn
+SpeechRecognition
+gtts
